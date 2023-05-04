@@ -1,0 +1,13 @@
+body {
+   background-size: cover;
+}
+
+.derecha {
+  text-align: right;
+  margin: auto;
+}
+.izquierda {
+  text-align: left;
+  margin: auto;
+}
+
